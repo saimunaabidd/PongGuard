@@ -1,0 +1,9 @@
+{
+  "name": "PondGuard",
+  "description": "An offline-first aquaculture assistant for shrimp and fish farmers, featuring AI-driven daily plans, water quality monitoring, and multilingual support (English/Bangla).",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
